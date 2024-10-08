@@ -24,10 +24,10 @@
     "lint": "xo src tests",
     "fmt": "xo src tests --fix",
     "format": "yarn fmt",
-    "release": "yarn build && np"
+    "release": "yarn build"
   },
   "peerDependencies": {
-    "alpinejs": "^2.3.1"
+    "alpinejs": "^3.14.0"
   },
   "dependencies": {
     "jsdom": "^19.0.0",
