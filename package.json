@@ -30,11 +30,12 @@
     "alpinejs": "^3.14.0"
   },
   "dependencies": {
+    "alpine-test-utils": "https://github.com/sodevious/alpine-test-utils#v1.0.1",
     "jsdom": "^19.0.0",
     "wait-for-expect": "^3.0.2"
   },
   "devDependencies": {
-    "alpinejs": "^2.3.1",
+    "alpinejs": "^3.14.0",
     "ava": "^3.7.0",
     "esm": "^3.2.25",
     "jest": "^27.0.1",
